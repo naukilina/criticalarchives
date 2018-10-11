@@ -1,5 +1,6 @@
-https://nsarchive.gwu.edu/project/mexico-project , Accessed October 2, 2018. 
-Reviewed by Mia Gomez, Graduate Student, Department of History, the University of Texas at Austin
+https://nsarchive.gwu.edu/project/mexico-project , Accessed October 2, 2018.
+
+*Reviewed by Mia Gomez, Graduate Student, Department of History, the University of Texas at Austin*
 
 *The Mexico Project* is a digital resource organized under [the National Security Archive](https://nsarchive.gwu.edu/) consisting of primary source documents from government agencies in both the United States and Mexico. Authors, journalists, and historians contextualize these documents, including them in specific narratives about important events in Mexican history, such as [the Tlatelolco Massacre of 1968](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB99/), [the Corpus Christi Massacre of 1971](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB91/), and [the economic crash of 1976](https://nsarchive2.gwu.edu/NSAEBB/NSAEBB115/index.htm). Journalists and scholars founded *the Mexico Project* in 1985 to serve several different purposes, such as repository of declassified government records, center for investigative journalism, and institute for international research, leading the charge in public access to information under [the U.S. Freedom of Information Act (FOIA)](https://www.foia.gov/). Co-directed by senior analyst of U.S. policy in Latin America, Kate Doyle, and senior analyst and director of the Colombia Project and Mexico Migration Project, Michael L. Evans, *The Mexico Project’s* main goal has been to identify and disseminate to the public important declassified documents regarding the history of state-sanctioned violence and human rights in Mexico. 
 
