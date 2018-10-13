@@ -27,12 +27,12 @@ Your file should begin with a header that looks exactly like this (including the
 ```
 ---
 layout: post
-title: "ENTER YOUR TITLE HERE"
+title: "ENTER YOUR TITLE HERE (in quotes)"
 modified:
 categories: blog
-excerpt: ENTER A PULL QUOTE HERE (it will show up on the Reviews home page)
+excerpt: "ENTER A PULL QUOTE HERE (in quotes)" (it will show up on the Reviews home page)
 tags: []
-author: "ENTER YOUR AUTHOR ID HERE"
+author: ENTER YOUR AUTHOR ID HERE (no quotes)
 image:
   feature:
 ---
