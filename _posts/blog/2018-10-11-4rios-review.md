@@ -11,7 +11,7 @@ image:
 ---
 # Queering the Method: "4 Ríos" and Archival Narration
 
-[4 Ríos Digital Archive](http://4rios.co). [http://4rios.co](http://4rios.co). Acccessed 28 Sept. 2018. 
+[4 Ríos Digital Archive](http://4rios.co). [http://4rios.co](http://4rios.co). Accessed 28 Sept. 2018. 
 
 The "4 Ríos" digital archive uses artful innovation to paint the indigenous and afro-descendant population of Colombia in the crossfire of armed conflict that has endured over more than forty years. This digital collection inspires the question "what is an archive" as it reshapes notions on how information must be organized and presented. A truly multi-media experience, "4 Ríos" compiles video, testimony, art, and online sources in the larger framework of an interactive, graphic novel. Visitors to the archive participate in their own education regarding how the lives of Colombian people were destroyed in the war between paramilitary and military forces, while witnessing information on the massacre at Alto de Naya in April 2001.
 
