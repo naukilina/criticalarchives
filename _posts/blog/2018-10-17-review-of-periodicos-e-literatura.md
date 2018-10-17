@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Review of the *Periódicos e literatura* Collection"
+title: "Review of the Periódicos e literatura Collection"
 modified:
 categories: blog
 excerpt: "A curated collection of materials digitized by the *National Digital Library of Brazil*"
 tags: []
-author: jgob
+author: joshuagob
 image:
   feature:
 ---
