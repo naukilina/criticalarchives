@@ -10,6 +10,7 @@ image:
   feature:
 ---
 # Queering the Method: "4 Ríos" and Archival Narration
+[Disponible en español](http://www.halperta.com/criticalarchives/blog/4rios-espanol/)
 
 [4 Ríos Digital Archive](http://4rios.co). [http://4rios.co](http://4rios.co). Accessed 28 Sept. 2018. 
 
