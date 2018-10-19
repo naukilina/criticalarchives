@@ -1,5 +1,5 @@
 ---
-layout: post
+: post
 title: "Queering the Method: '4 Rios' and Archival Narration"
 modified:
 categories: blog
@@ -13,7 +13,9 @@ image:
 
 [4 Ríos Digital Archive](http://4rios.co). [http://4rios.co](http://4rios.co). Accessed 28 Sept. 2018. 
 
-The "4 Ríos" digital archive uses artful innovation to paint the indigenous and afro-descendant population of Colombia in the crossfire of armed conflict that has endured over more than forty years. This digital collection inspires the question "what is an archive?" as it reshapes notions on how information must be organized and presented. It provides an example of Zeb Tortorici's notion of *queering the archive*, wherein the researcher must adopt unconventional methods to tell the story that is usually left out of history. A truly multi-media experience, "4 Ríos" compiles video, testimony, art, and online sources in the larger framework of an interactive, graphic novel. Visitors to the archive participate in their own education regarding how the lives of Colombian people were destroyed in the war between paramilitary and military forces, while witnessing information on the massacre at Alto de Naya in April 2001.
+*Reviewed by Kaitlin Burns, University of Texas at Austin*
+
+The "4 Ríos" digital archive uses artful innovation to paint the indigenous and afro-descendant population of Colombia in the croslayoutsfire of armed conflict that has endured over more than forty years. This digital collection inspires the question "what is an archive?" as it reshapes notions on how information must be organized and presented. It provides an example of Zeb Tortorici's notion of *queering the archive*, wherein the researcher must adopt unconventional methods to tell the story that is usually left out of history. A truly multi-media experience, "4 Ríos" compiles video, testimony, art, and online sources in the larger framework of an interactive, graphic novel. Visitors to the archive participate in their own education regarding how the lives of Colombian people were destroyed in the war between paramilitary and military forces, while witnessing information on the massacre at Alto de Naya in April 2001.
 
 Elder Manuel Tobar, an Audiovisual Producer and Social Activist by trade, created and directed the "4 Ríos" information collective in 2013. The description of his extensive team of specialists and their roles reads like movie credits, since the execution of this archive required unique talents such as actors, set designers, and story board creators. The project received the Premio Crea Digital in 2013 in recognition of its narrative value and commitment to social and political responsibility, and was funded through awards and grants from IDARTES (Instituto Distrital de las Artes) and Pontificia Universidad Javeriana in 2012, as well as through the Colombian Ministry of Culture in 2011.
 
