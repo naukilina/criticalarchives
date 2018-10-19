@@ -9,7 +9,9 @@ author: KBurns073
 image:
   feature:
 ---
-# Queerizando el método: "4 Ríos" and la narración archivística
+
+# Queerizando el método: "4 Ríos" y la narración archivística
+[Also available in English](http://www.halperta.com/criticalarchives/blog/4rios-review/)
 
 [4 Ríos Digital Archive](http://4rios.co). [http://4rios.co](http://4rios.co). Fue accedido el 28 de septiembre de 2018. 
 
