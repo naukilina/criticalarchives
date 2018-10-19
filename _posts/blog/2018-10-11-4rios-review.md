@@ -1,5 +1,5 @@
 ---
-: post
+layout: post
 title: "Queering the Method: '4 Rios' and Archival Narration"
 modified:
 categories: blog
