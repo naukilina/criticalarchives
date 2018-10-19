@@ -5,9 +5,9 @@ modified:
 categories: blog
 excerpt: "...the unique construction of this archive calls into question institutionalized norms regarding what an archive is and how it functions."
 tags: []
-author: "KBurns073"
+author: KBurns073
 image:
-	feature:
+  feature:
 ---
 # Queering the Method: "4 Ríos" and Archival Narration
 
