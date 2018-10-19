@@ -3,7 +3,7 @@ layout: post
 title: "Queerizando el método: '4 Ríos' y la narración archivística"
 modified:
 categories: blog
-excerpt: "...la construcción única del archivo "4 Ríos" cuestiona las normas institucionalizadas en torno a qué elementos constituyen un archivo y cómo funcionan."
+excerpt: "...la construcción única del archivo '4 Ríos' cuestiona las normas institucionalizadas en torno a qué elementos constituyen un archivo y cómo funcionan."
 tags: []
 author: KBurns073
 image:
