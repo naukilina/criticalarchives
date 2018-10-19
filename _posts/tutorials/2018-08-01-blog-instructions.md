@@ -16,6 +16,7 @@ You can write your post in a text editor or directly on GitHub. For instructions
 To publish your post, you will need to learn how to:
 * Create a GitHub account
 * Fork a GitHub repository
+* Write your article
 * Upload your article
 * Merge your changes
 
@@ -77,7 +78,10 @@ You'll need to create an author ID for the website so that your review can be at
 
 We'll check and approve your changes before the modification goes live.
 
-## Step 4: Upload your review 
+## Step 4: Write your article
+Instructions for writing an article in markdown [are found here.](http://www.halperta.com/criticalarchives/tutorial/writing-in-markdown/) Please note that you must include a YAML header, and use markdown for formatting.  
+
+## Step 5: Upload your review 
 Uploading your review is going to look a lot like editing your author id. The only difference is that you'll be having someone review your changes before you merge them with the website. You can also watch the [video tutorial](https://youtu.be/TRhuFvoOZXk). Note: turn on closed captions to view the text instructions].  
 
 1. **Log in to GitHub** and navigate to your fork of the Critical Archives repository. Confirm that you're in your fork: it should be called "yourusername/criticalarchives" and it should be forked from "halperta/criticalarchives."
