@@ -10,11 +10,11 @@ image:
   feature:
 ---
 
-Living Archive of Aboriginal Languages. Charles Darwin University et al, 2012, (http://laal.cdu.edu.au/). Accessed 17 oct. 2018
+Living Archive of Aboriginal Languages. Charles Darwin University et al, 2012, http://laal.cdu.edu.au/. Accessed 17 oct. 2018
 
 Simplicity is one of the key words for the Living Archive of Aboriginal Languages. This digital repository contains over 3000 books written in 50 Indigenous languages of the Northern Territory of Australia. This huge number of texts is available through a very easy-to-use interface displaying a clickable geographical map, with icons that redirect the user to the materials. 
 
-Another key word for this collection is right there in its name: “Living”. The books are classified as “endangered literatures” on the website, thus the archive is set up to enhance their liveness by displaying them in an open access online platform. One of the main goals of this ongoing endeavor, as the “about” page states, is to connect these literatures to the communities they belong to. 
+Another key word for this collection is right there in its name: “Living”. The books are classified as “endangered literatures” on the website, thus the archive is set up to enhance their liveness by displaying them in an open access online platform. The main goals of this ongoing endeavor is to reconnect these literatures to the communities they belong to, and aknowledging their place in diverse Indigenous intelectual histories (Bow et al 348). 
 
 Why were these texts disconnected from their social origins in the first place? The answer is in the background story. 
 
