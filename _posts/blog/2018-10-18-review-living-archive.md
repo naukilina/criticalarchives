@@ -1,10 +1,24 @@
-Review of the Living Archive of Aboriginal Languages
+---
+layout: post
+title: "The Living Archive of Aboriginal Languages: xxxx"
+modified:
+categories: blog
+excerpt:
+tags: []
+author: *Reviewed by Montserrat Madariaga-Caro, Graduate Student, Department of Spanish and Portuguese, University of Texas at Austin*
+image:
+  feature:
+---
 
-Living Archive of Aboriginal Languages. Charles Darwin University et al, 2012, http://laal.cdu.edu.au/. Accessed 17 oct. 2018
+Living Archive of Aboriginal Languages. Charles Darwin University et al, 2012, (http://laal.cdu.edu.au/). Accessed 17 oct. 2018
 
-Simplicity is one of the key words for the Living Archive of Aboriginal Languages. This digital repository contains over 2500 books written in more than 25 indigenous languages of the Northern Territory of Australia, but the texts are available through a very easy-to-use interface displaying a clickable geographical map, with icons that redirect the user to the materials. Another key word for this collection is right there in its name: “Living”. The books are classified as “endangered literatures” on the website, thus the archive is set up to enhance their liveness by displaying them in an open access online platform. One of the main goals of this ongoing endeavor, as the “about” page states, is to connect these literatures to the communities they belong to. Why were these texts disconnected from their social origins in the first place? The answer is in the background story. 
+Simplicity is one of the key words for the Living Archive of Aboriginal Languages. This digital repository contains over 3000 books written in 50 Indigenous languages of the Northern Territory of Australia. This huge number of texts is available through a very easy-to-use interface displaying a clickable geographical map, with icons that redirect the user to the materials. 
 
-The Living Archive of Aboriginal Languages was created in 2012 by the Charles Darwin University, the Australian National University and the NT Department of Education and Children’s Services, with funding from the Australian Research Council through the Linkage Infrastructure Equipment and Facilities scheme. On a second phase, the archive received financial aid again from the Research Council, and added three more educational institutions to the working team. All these organizations partnered up to gather the scattered books of twenty school-based Literature Production Centres at the Northern Territory, that from 1973 to early 2000 produced an amazing amount of indigenous knowledge recorded in very simple literary projects. 
+Another key word for this collection is right there in its name: “Living”. The books are classified as “endangered literatures” on the website, thus the archive is set up to enhance their liveness by displaying them in an open access online platform. One of the main goals of this ongoing endeavor, as the “about” page states, is to connect these literatures to the communities they belong to. 
+
+Why were these texts disconnected from their social origins in the first place? The answer is in the background story. 
+
+The Living Archive of Aboriginal Languages was created in 2012 by the Charles Darwin University, the Australian National University and the NT Department of Education and Children’s Services, with funding from the Australian Research Council through the Linkage Infrastructure Equipment and Facilities scheme. For a second phase, the archive received financial aid again from the Research Council, and added three more educational institutions to the working team. All these organizations partnered up to gather the scattered books of twenty school-based Literature Production Centres at the Northern Territory, which from 1973 to early 2000 produced an amazing amount of indigenous knowledge recorded in very simple literary projects. 
 
 The “centres” were part of a discontinued Bilingual Program of northern Australia that aimed for the literacy of aboriginal children. Indigenous and non-indigenous people worked together to write and illustrate the books that contain “teaching materials, literacy primers, children’s stories, stories of local cultural significance such as environmental knowledge, traditional practices, oral literature, ethno-botany, history, non-sacred versions of Dreaming or Creation stories, experience stories, instructional manuals, cautionary tales, and many others” (Bow et al 348). The source of these documents were the oral narratives, and common knowledges of the indigenous communities in their own languages. Due to changes to educational policies, by 2010 the majority of the Centres closed, and the schools managed the materials in different ways that range from using them for educational purposes to actually destroying them (Bow et al 347-250). Today, some of the physical books are available in special collections of university libraries, and the rest, a large number, are dispersed within the communities and local educational centers and institutions. Therefore, access to these books and the indigenous knowledges they hold was selective and/or difficult before the creation of the digital collection.
 
