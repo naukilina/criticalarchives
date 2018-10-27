@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Living Archive of Aboriginal Languages: xxxx"
+title: "The Living Archive of Aboriginal Languages: A big step forwards giving back"
 modified:
 categories: blog
-excerpt:
+excerpt: The digital repository contains over 3000 books written in 50 Indigenous languages of the Northern Territory of Australia.
 tags: []
 author: *Reviewed by Montserrat Madariaga-Caro, Graduate Student, Department of Spanish and Portuguese, University of Texas at Austin*
 image:
