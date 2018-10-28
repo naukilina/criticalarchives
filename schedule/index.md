@@ -134,11 +134,11 @@ All readings are available either through the links on this website, or through 
   </tr>
 
   <tr bgcolor="LightGray">
-    <th rowspan="6">November 1, 2018 (Unit 3)</th>
+    <th rowspan="7">November 1, 2018 (Unit 3)</th>
     <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
-    <td rowspan="6"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
+    <td rowspan="7"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
 Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. </a> </td>
-    <td rowspan="6"> None. </td>
+    <td rowspan="7"> None. </td>
   </tr>
   <tr bgcolor="LightGray">
     <td align="left">2. Eric Hemenway (Little Traverse Bay Bands of Odawa Indians), “Trials and tribulations in a tribal NAGPRA program,” <a>Museum Anthropology</a> 33.2 (2010): 172-179. </td>
