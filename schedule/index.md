@@ -147,7 +147,7 @@ Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. <
     <td align="left">3. Joshua A. Bell, Kimberly Christen, and Mark Turin, “After the Return: Digital Repatriation and the Circulation of Indigenous Knowledge Workshop Report,” <i>Museum Worlds: Advances in Research</i> 6 (2013): 195-203.</i> Philadelphia: University of Pennsylvania Press, 2016.</td>
   </tr>
   <tr bgcolor="LightGray">
-    <td align="left"><a href="http://jces.ua.edu/taking-a-stand-community-engaged-scholarship-on-the-tenure-track/">NEW: 4. Kevin Michael Foster, “Taking a Stand: Community-Engaged Scholarship on the Tenure Track,” <i>Journal of Community Engagement and Scholarship</i> June 19 2012.</i> Philadelphia: University of Pennsylvania Press, 2016.</a></td>
+    <td align="left"><a href="http://jces.ua.edu/taking-a-stand-community-engaged-scholarship-on-the-tenure-track/">NEW: 4. Kevin Michael Foster, “Taking a Stand: Community-Engaged Scholarship on the Tenure Track,” <i>Journal of Community Engagement and Scholarship </i> June 19 2012. Philadelphia: University of Pennsylvania Press, 2016.</a></td>
   </tr>
   <tr bgcolor="#E8E8E8">
     <td align="left">*Optional*: 5. Willie Ermine (Cree), “Ethical Space of Engagement,” <i>Indigenous Law Journal</i> 6.1 (2007): 193-203. </td>
