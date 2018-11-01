@@ -135,7 +135,7 @@ All readings are available either through the links on this website, or through 
 
   <tr bgcolor="LightGray">
     <th rowspan="7">November 1, 2018 (Unit 3)</th>
-    <td> 1. <a href="https://amphilsoc.org/library/protocols-for-indigenous-materials"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
+    <td> 1. <a href="https://www.amphilsoc.org/sites/default/files/2017-06/attachments/CNAIR%20Protocols.pdf"> American Philosophical Society, “Protocols for the treatment of indigenous materials” (2013).</a></td>
     <td rowspan="7"><a href="https://liberalarts.utexas.edu/nais/events/event.php?id=48350">Guest Speaker: Dr. Mario Garza and María Rocha
 Miakan-Garza Band of Coahuiltecans, founders of Indigenous Cultures Institute. </a> </td>
     <td rowspan="7"> None. </td>
